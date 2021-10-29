@@ -1,5 +1,8 @@
 ### Hello, i'm Thiago Kestering 👋😁
 
+ 
+![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://user-images.githubusercontent.com/81923270/139354468-88ae5748-b421-4e23-a7d4-91dd112134a9.gif)
+
 - 🔭 Aprendendo Front-End 🥰
 - 🌱 Analise e Desenvolvimento de Sistemas FACENS
 
